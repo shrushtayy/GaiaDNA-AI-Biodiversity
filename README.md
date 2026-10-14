@@ -3,6 +3,7 @@
 GaiaDNA is a modular AI platform designed to detect **ghost species**, predict **biodiversity hotspots**, and support **conservation science** using ecological datasets.  
 It works with **fungi**, **insects**, and can be extended to any organism group with coordinate and taxonomic data.
 
+https://gaiadna-ai-biodiversity-2pwucim5mulbfiyrkvqwhr.streamlit.app/
 ---
 🚀 Features
 
